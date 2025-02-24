@@ -29,3 +29,17 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
 5. **Select Website Attack Vectors**:
    ```
    2) Website Attack Vectors
+
+6. **Select Credential Harvester Attack Method**:
+   ```
+   3) Credential Harvester Attack Method
+   ```
+7. **Choose Web Templates Method**:
+   ```
+   1) Web Templates
+   ```
+8. **Enter the IP address for the POST request** (Default: `172.31.24.5`). Press **Enter**.
+9. **Select Google Login Page Template**:
+   ```
+   2) Google Template
+   ```
