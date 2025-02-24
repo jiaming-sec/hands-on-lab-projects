@@ -20,3 +20,8 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
    sudo setoolkit
    ```
    > If the command fails, wait a few minutes and try again (files might still be installing).
+
+3. **Accept the Terms of Service**: Type `y` and press **Enter**.
+4. **Select Social-Engineering Attack**:
+   ```
+   1) Social-Engineering Attacks
