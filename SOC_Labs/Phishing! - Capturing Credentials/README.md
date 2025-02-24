@@ -43,3 +43,7 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
    ```
    2) Google Template
    ```
+
+**At this point, SET is creating a fake Google login page that will capture any credentials entered.**
+
+---
