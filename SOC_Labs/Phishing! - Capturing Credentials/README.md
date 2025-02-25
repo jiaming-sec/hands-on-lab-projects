@@ -63,3 +63,15 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
    Password: topsecretpassword
    ```
 6. **Click Sign In**.
+   
+---
+
+## 3️⃣ Lab Analysis - Viewing Captured Credentials
+1. **Switch back to the Linux Desktop (attacker’s machine).**
+2. **Check for captured credentials**:
+   ```sh
+   cat /var/www/html/logs.txt
+   ```
+3. **Observe how phishing attacks capture user credentials.**
+
+---
