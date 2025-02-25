@@ -47,3 +47,12 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
 **At this point, SET is creating a fake Google login page that will capture any credentials entered.**
 
 ---
+
+## 2️⃣ Victim Simulation
+### Steps to Simulate the Victim
+1. **Switch to the Windows Desktop** (simulating the victim’s machine).
+2. **Open Firefox Browser**.
+3. **Enter the attacker’s IP in the address bar**:
+   ```
+   172.31.24.5
+   ```
