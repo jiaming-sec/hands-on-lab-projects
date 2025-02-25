@@ -56,3 +56,10 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
    ```
    172.31.24.5
    ```
+4. **Observe the Google Login Page** (images may not load in the lab environment).
+5. **Enter test credentials**:
+   ```
+   Email: susieq@company.com
+   Password: topsecretpassword
+   ```
+6. **Click Sign In**.
