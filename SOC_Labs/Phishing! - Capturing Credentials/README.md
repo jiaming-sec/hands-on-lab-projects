@@ -75,3 +75,9 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
 3. **Observe how phishing attacks capture user credentials.**
 
 ---
+
+## Key Takeaways 🛡️
+- **Phishing is a common attack method**: Attackers use fake websites to steal credentials.
+- **Be cautious of email links**: Always verify the URL before entering login details.
+- **Use Multi-Factor Authentication (MFA)**: This adds an extra layer of security.
+- **Report phishing attempts**: If you receive a suspicious email, report it to your security team.
