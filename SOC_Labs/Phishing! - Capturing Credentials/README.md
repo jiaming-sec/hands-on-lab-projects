@@ -88,3 +88,10 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
 ✅ Never reuse passwords across multiple sites.  
 ✅ Enable Multi-Factor Authentication (MFA).  
 ✅ Report suspicious emails to your IT security team.  
+
+---
+
+## Contributing 🤝
+If you'd like to contribute to this repository, feel free to submit pull requests with improvements or additional scenarios!
+
+📌 **Educational Use Only!** Do not use this knowledge for malicious purposes.
