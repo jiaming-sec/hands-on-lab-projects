@@ -81,3 +81,10 @@ This lab demonstrates how attackers use **phishing techniques** to steal user cr
 - **Be cautious of email links**: Always verify the URL before entering login details.
 - **Use Multi-Factor Authentication (MFA)**: This adds an extra layer of security.
 - **Report phishing attempts**: If you receive a suspicious email, report it to your security team.
+
+### How to Defend Against Phishing Attacks
+✅ Verify URLs before entering login credentials.  
+✅ Be skeptical of urgent or unexpected login requests.  
+✅ Never reuse passwords across multiple sites.  
+✅ Enable Multi-Factor Authentication (MFA).  
+✅ Report suspicious emails to your IT security team.  
